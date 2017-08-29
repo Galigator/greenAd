@@ -8,6 +8,7 @@
 127.0.0.1       pagead2.googlesyndication.com
 127.0.0.1       cse.google.com
 127.0.0.1       www.google-analytics.com
+127.0.0.1       pagead2.googlesyndication.com   # not https.
 
 # widget
 127.0.0.1       w.likebtn.com
@@ -81,7 +82,11 @@
 127.0.0.1       rtb.adx1.com
 127.0.0.1       speednetwork1.adk2x.com
 127.0.0.1       www.xmediaserve.com
-
+127.0.0.1       pubads.g.doubleclick.net
+127.0.0.1       popserve.adscpm.net
+127.0.0.1       onclkds.com
+127.0.0.1       4dle.info
+127.0.0.1       ad.directrev.com
 
 # cdn
 127.0.0.1       speednetwork6.adk2x.com
@@ -114,6 +119,7 @@
 127.0.0.1       i2.cdn-image.com
 127.0.0.1       i3.cdn-image.com
 127.0.0.1       quickdomainfwd.com
+127.0.0.1       ro.my.com
 
 # malware
 127.0.0.1       enqueteofficielle.fr
@@ -159,8 +165,21 @@
 127.0.0.1       agdea.txhhfpzmj3785txhhfpzmj.xyz
 127.0.0.1       www.citynowbulk.com
 127.0.0.1       www.hbbwlhxfnbpq.com
+127.0.0.1       mftbfgcusnzl.com
+127.0.0.1       ompzowzfwwfc.com
+127.0.0.1       9icmzvn6.website
+127.0.0.1       4dle.info
+127.0.0.1       nedmppiilnld.com
+127.0.0.1       www.x-flirt.co
+127.0.0.1       ivkasohqerzl.com
+127.0.0.1       www.erq.io
+127.0.0.1       www.thewaycloud.com
 
 # relais
+127.0.0.1       b.codeonclick.com
+127.0.0.1       c.codeonclick.com
+127.0.0.1       code.poptm.com
+127.0.0.1       push2.poptm.com
 127.0.0.1       research-specialist.com
 127.0.0.1       secure.bidvertiser.com
 127.0.0.1       www.terraclicks.com
@@ -171,8 +190,12 @@
 127.0.0.1       router.mobby.io
 127.0.0.1       prjcq.com
 127.0.0.1       mediaathay.org.uk
+127.0.0.1       popcash.net
+127.0.0.1       fhylnqzxwsbo.com
+
 
 # monitors
+127.0.0.1       fxjgprpozntk.com
 127.0.0.1       xctraffic.com
 127.0.0.1       tags.clickintext.net
 127.0.0.1       dc298.s372.meetrics.net
@@ -181,6 +204,13 @@
 127.0.0.1       ktrackdata.com
 
 # others & scam
+127.0.0.1       enquete-client-printemps.com
+127.0.0.1       j46gamesonden.com
+127.0.0.1       www.fucklikegod.com
+127.0.0.1       fp.oneshotdate.com
+127.0.0.1       www.clicksgear.com
+127.0.0.1       www.freegreatapps4.download
+127.0.0.1       www.freean.us
 127.0.0.1       ohmydating.com
 127.0.0.1       u25games.com
 127.0.0.1       www.methode-binaire.com
@@ -220,7 +250,6 @@
 127.0.0.1       newslesbonsplans.com
 127.0.0.1       www.xcams.fr
 127.0.0.1       goutee.top
-#127.0.0.1       www.facebook.com
 127.0.0.1       s.acexedge.com
 127.0.0.1       urlext.net
 127.0.0.1       cine.actu-video.com
@@ -271,4 +300,21 @@
 127.0.0.1       bestdealplace.com
 127.0.0.1       buzzplayz.com
 127.0.0.1       www.exclusive-game4you.site
-
+127.0.0.1       www.filesonthe.net
+127.0.0.1       only2date.com
+127.0.0.1       agisdayra.com
+127.0.0.1       welcome.pussysaga.com
+127.0.0.1       fr.elvenar.com
+127.0.0.1       om.elvenar.com
+127.0.0.1       popcash.net
+127.0.0.1       bandretail.com
+127.0.0.1       super.awesomeforyou.club
+127.0.0.1       www.trkfl.com
+127.0.0.1       newtabtv.com
+127.0.0.1       givewayco.com
+127.0.0.1       www.ruenu.com
+127.0.0.1       easy2date.net
+127.0.0.1       www.love4single.com
+127.0.0.1       www.xtube.com
+127.0.0.1       www2.wyylde.com
+127.0.0.1       prime2k.com
