@@ -89,6 +89,19 @@
 127.0.0.1       ad.directrev.com
 127.0.0.1       adventori.com
 127.0.0.1       f20.adventori.com
+127.0.0.1       trk.helios.ligatus.com
+127.0.0.1       r.ligatus.com
+127.0.0.1       sync.ligadx.com
+127.0.0.1       static.ligadx.com
+127.0.0.1       ib.adnxs.com
+127.0.0.1       image2.pubmatic.com
+127.0.0.1       image4.pubmatic.com
+127.0.0.1       px.adhigh.net
+127.0.0.1       ads.avocet.io
+127.0.0.1       adx.ligadx.com
+127.0.0.1       securepubads.g.doubleclick.net
+127.0.0.1       secure.adnxs.com
+127.0.0.1       j.adlooxtracking.com
 
 # cdn
 127.0.0.1       speednetwork6.adk2x.com
@@ -122,6 +135,8 @@
 127.0.0.1       i3.cdn-image.com
 127.0.0.1       quickdomainfwd.com
 127.0.0.1       ro.my.com
+127.0.0.1       cdn.lqmcdn.com
+127.0.0.1       i-ssl.ligatus.com
 
 # malware
 127.0.0.1       enqueteofficielle.fr
