@@ -102,6 +102,8 @@
 127.0.0.1       securepubads.g.doubleclick.net
 127.0.0.1       secure.adnxs.com
 127.0.0.1       j.adlooxtracking.com
+127.0.0.1       adframe.mediaplex.com
+
 
 # cdn
 127.0.0.1       speednetwork6.adk2x.com
