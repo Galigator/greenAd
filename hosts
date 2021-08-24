@@ -5,8 +5,8 @@
 127.0.0.1       tpc.googlesyndication.com
 127.0.0.1       googleads.g.doubleclick.net
 127.0.0.1       www.googleadservices.com
-127.0.0.1       pagead2.googlesyndication.com
-127.0.0.1       cse.google.com
+#127.0.0.1       cse.google.com # link to too many ressources to be disable.
+
 127.0.0.1       www.google-analytics.com
 127.0.0.1       pagead2.googlesyndication.com   # not https.
 
@@ -103,6 +103,34 @@
 127.0.0.1       secure.adnxs.com
 127.0.0.1       j.adlooxtracking.com
 127.0.0.1       adframe.mediaplex.com
+127.0.0.1       bvt.r66net.com
+127.0.0.1       external-preview.redd.it
+127.0.0.1       get-my-ads.com
+127.0.0.1       www.get-my-ads.com
+127.0.0.1       traffic.myadsino.com
+127.0.0.1       get-media.info
+127.0.0.1       pops.ero-advertising.com
+127.0.0.1       www.superadexchange.com
+127.0.0.1       adframe.mediaplex.com
+127.0.0.1       s1.adform.net
+127.0.0.1       s0.wp.com
+127.0.0.1       kwebstat.videostep.com
+127.0.0.1       content.videostep.com
+127.0.0.1       s.videostep.com
+127.0.0.1       u.videostep.com
+127.0.0.1       static.r66net.com
+127.0.0.1       k.r66net.com
+127.0.0.1       bvt.r66net.com
+127.0.0.1       www.invibes.com
+127.0.0.1       config.seedtag.com
+127.0.0.1       s.seedtag.com
+127.0.0.1       www.urlbeat.net
+127.0.0.1       www2.liltmedia.com
+127.0.0.1       signup.liltmedia.com
+127.0.0.1       top.worldctraffic.com
+127.0.0.1       clicks.worldctraffic.com
+127.0.0.1       www.remisesetprivileges.fr
+
 
 
 # cdn
@@ -121,11 +149,8 @@
 127.0.0.1       static.briwat.info
 127.0.0.1       www.briwat.info
 127.0.0.1       tag-dyn.omnitagis.com
-127.0.0.1       tag-dyn.omnitagjs.com
-127.0.0.1       fo-static.omnitagis.com
 127.0.0.1       fo-static.omnitagjs.com
 127.0.0.1       fo-api.omnitagis.com
-127.0.0.1       fo-api.omnitagjs.com
 127.0.0.1       de5zarwna0j2q.cloudfront.net
 127.0.0.1       netdna.cedexis.com
 127.0.0.1       cs600.wpc.alphacdn.net
@@ -516,11 +541,10 @@
 127.0.0.1	crimtan.com	#(1) (9) (8) (4) (16) (3) (6)
 127.0.0.1	www.criteo.com	#(1) (2) (9) (8) (12) (16) (5) (3)
 127.0.0.1	www.crowdynews.com	#(2) (10) (11) (12) (13) (14) (15)
-127.0.0.1	https://privacy.cuebiq.com	#(1) (9) (15) (16) (5) (3) (6) (7)
+127.0.0.1	privacy.cuebiq.com	#(1) (9) (15) (16) (5) (3) (6) (7)
 127.0.0.1	www.cxense.com	#(1) (2) (9) (8) (10) (11) (12) (13) (14) (15) (16) (5) (3) (6)
 127.0.0.1	cynapsis.de	#(2)  (8) (11) (12) (13) (14) (15)
 127.0.0.1	www.cpex.cz	#(1) (2) (9) (8) (10) (11) (12) (13) (14) (15) (4) (16) (5) (3)
-127.0.0.1	www.dailymotion.com	#(1) (9) (8) (4) (5)
 127.0.0.1	dataseat.com	#(1) (2) (9) (8) (10) (11) (12) (13) (14) (3)
 127.0.0.1	www.goal.com	#(1) (9) (8) (12) (4) (3) (6)
 127.0.0.1	www.deepintent.com	#(1) (4) (16) (5) (3)
@@ -649,7 +673,6 @@
 127.0.0.1	www.lifesight.io	#(2) (9) (8) (10) (11) (12) (13) (14) (15)
 127.0.0.1	lifestreet.com	#(1) (9) (8) (4) (3) (6)
 127.0.0.1	liftoff.io	#(1) (2) (9) (8) (11) (12) (13) (15) (4) (3) (6)
-127.0.0.1	www.linkedin.com	#(1) (9) (8) (4)
 127.0.0.1	liquidm.com	#(1) (2) (9) (8) (12) (4) (3) (6)
 127.0.0.1	listonic.com	#(1) (10) (11) (12) (13) (14) (15) (4) (16) (5) (3) (6) (7)
 127.0.0.1	liveintent.com	#(1)
