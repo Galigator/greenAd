@@ -33,7 +33,7 @@ You can also install "Ghostery" or "ADBlock" plugins in your browser.
 You can also install "Block site" plugins into your browser and configure it with the stopIP list file.
 You can close tabs that you aren't using.
 You can keep your computer up-to-date, as well as your browser.
-You can install a web server(apache2/lighttpd) on your computer with a defaut rule that is to close popup open by script, and show a close button for 404 errors.
+You can install a web server(apache2/nginx) on your computer with a defaut rule that is to close popup open by script, and show a close button for 404 errors.
 
 # How do you choose the web site you are blocking ?
 When I am distrubed vy an AD/spyware/badware on internet, I just take a short pause and add it to my 'hosts' file.
