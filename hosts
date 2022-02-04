@@ -25,6 +25,9 @@
 127.0.0.1       go.clickdomnew.com
 
 # ads-services
+127.0.0.1       15.taboola.com
+127.0.0.1       images.taboola.com
+127.0.0.1       trc.taboola.com
 127.0.0.1       popup.taboola.com
 127.0.0.1       ww400.smartadserver.com
 127.0.0.1       vivcdctagoij.com
