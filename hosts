@@ -141,6 +141,7 @@
 
 
 # cdn
+127.0.0.1       e-cdns-content.dzcdn.net
 127.0.0.1       speednetwork6.adk2x.com
 127.0.0.1       speednetwork5.adk2x.com
 127.0.0.1       speednetwork4.adk2x.com
