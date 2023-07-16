@@ -138,7 +138,7 @@
 127.0.0.1       interstitial-07.com
 127.0.0.1       nanouwho.com
 127.0.0.1       offerimage.com
-
+127.0.0.1       itx5.smartadserver.com
 
 # cdn
 127.0.0.1       speednetwork6.adk2x.com
@@ -171,6 +171,7 @@
 127.0.0.1       ro.my.com
 127.0.0.1       cdn.lqmcdn.com
 127.0.0.1       i-ssl.ligatus.com
+127.0.0.1       e-cdns-content.dzcdn.net
 
 # malware
 127.0.0.1       enqueteofficielle.fr
