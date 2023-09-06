@@ -25,6 +25,10 @@
 127.0.0.1       go.clickdomnew.com
 
 # ads-services
+127.0.0.1       insight.adsrvr.org
+127.0.0.1       a.adsrvr.org
+127.0.0.1       adserver.audi-on.com
+127.0.0.1       deezer.deliveryengine.adswizz.com
 127.0.0.1       15.taboola.com
 127.0.0.1       images.taboola.com
 127.0.0.1       trc.taboola.com
