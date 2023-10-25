@@ -25,6 +25,8 @@
 127.0.0.1       go.clickdomnew.com
 
 # ads-services
+127.0.0.1       de1-bis.adsrvr.org
+127.0.0.1       beam.hubvisor.io
 127.0.0.1       insight.adsrvr.org
 127.0.0.1       a.adsrvr.org
 127.0.0.1       adserver.audi-on.com
@@ -145,6 +147,7 @@
 127.0.0.1       itx5.smartadserver.com
 
 # cdn
+127.0.0.1       cdns-content.dzcdn.net
 127.0.0.1       e-cdns-content.dzcdn.net
 127.0.0.1       speednetwork6.adk2x.com
 127.0.0.1       speednetwork5.adk2x.com
@@ -176,7 +179,6 @@
 127.0.0.1       ro.my.com
 127.0.0.1       cdn.lqmcdn.com
 127.0.0.1       i-ssl.ligatus.com
-127.0.0.1       e-cdns-content.dzcdn.net
 
 # malware
 127.0.0.1       enqueteofficielle.fr
